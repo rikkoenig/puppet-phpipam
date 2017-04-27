@@ -1,0 +1,3 @@
+Change static username to variable.
+
+Make variable username depend on OS (RH&Centos 'apache' vs Deb&Ubuntu 'www-data')
